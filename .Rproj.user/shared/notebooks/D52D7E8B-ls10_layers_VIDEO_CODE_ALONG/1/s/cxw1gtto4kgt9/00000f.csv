@@ -1,0 +1,20 @@
+"0","sle_healthsites_all <- "
+"0","  afrihealthsites(country = ""Sierra Leone"", "
+"0","                  datasource = 'who',"
+"0","                  plot = FALSE) %>% "
+"0","  janitor::clean_names()"
+"0",""
+"0","sle_healthsites_all"
+"1","Simple feature collection with 1120 features and 10 fields"
+"1","
+"
+"1","Geometry type: POINT
+"
+"1","Dimension:     XY
+"
+"1","Bounding box:  "
+"1","xmin: -13.271 ymin: 6.9679 xmax: -10.3065 ymax: 9.9745"
+"1","
+"
+"1","Geodetic CRS:  WGS 84
+"

@@ -1,0 +1,178 @@
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/xfun_0.49.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 568630 bytes (555 KB)
+"
+"2","downloaded 555 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/cpp11_0.5.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 310609 bytes (303 KB)
+"
+"2","downloaded 303 KB
+
+"
+"1","package ‘xfun’ successfully unpacked and MD5 sums checked
+"
+"2","Warning: cannot remove prior installation of package ‘xfun’"
+"2","Warning: problem copying C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\00LOCK\xfun\libs\x64\xfun.dll to C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\xfun\libs\x64\xfun.dll: Permission denied"
+"2","Warning: restored ‘xfun’"
+"1","package ‘cpp11’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\downloaded_packages"
+"1",""
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/terra_1.8-5.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 981057 bytes (958 KB)
+"
+"2","downloaded 958 KB
+
+"
+"1","* installing *source* package 'terra' ...
+"
+"1","** package 'terra' successfully unpacked and MD5 sums checked
+"
+"1","ERROR: cannot remove earlier installation, is it in use?
+"
+"1","* removing 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/terra'
+"
+"1","* restoring previous 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/terra'
+"
+"1","Warning in file.copy(lp, dirname(pkgdir), recursive = TRUE, copy.date = TRUE) :
+"
+"1","  problem copying C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\00LOCK-terra\terra\libs\x64\terra.dll to C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\terra\libs\x64\terra.dll: Permission denied
+"
+"2","Warning: installation of package ‘terra’ had non-zero exit status"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\downloaded_packages’"
+"2",""
+"2","
+"
+"2","Error in utils::download.file(url, path, method = method, quiet = quiet,  : 
+  download from 'https://api.github.com/repos/wmgeolab/rgeoboundaries/tarball/HEAD' failed
+"
+"1","[36m──[39m [36mR CMD build[39m [36m──────────────────────[39m"
+"1",""
+"1","
+"
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking for file 'C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\remotes3d281bee248d\afrimapr-afriadmin-b36a276/DESCRIPTION'[39m[36m[36m (2s)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mpreparing 'afriadmin':[39m[36m[36m (1.8s)[36m[39m"
+"1",""
+"1","
+"
+"1","   checking DESCRIPTION meta-information ..."
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking DESCRIPTION meta-information[39m[36m[36m (361ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for LF line-endings in source and make files and shell scripts[39m[36m[36m (567ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for empty or unneeded directories[39m[36m[39m"
+"1",""
+"1","
+"
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mbuilding 'afriadmin_0.0.0.9002.tar.gz'[39m[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","   "
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","* installing *source* package 'afriadmin' ...
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** data
+"
+"1","*** moving datasets to lazyload DB
+"
+"1","** inst
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","** building package indices
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (afriadmin)
+"
+"2","Warning: package ‘knitr’ is in use and will not be installed"
+"2","Warning: packages ‘rhealthsites’, ‘rhdx’ are not available for this version of R
+
+Versions of these packages for your version of R might be available elsewhere,
+see the ideas at
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages"
+"1","
+"
+"1",""
+"1","  There are binary versions
+  available but the source
+  versions are later"
+"1",""
+"1",":
+"

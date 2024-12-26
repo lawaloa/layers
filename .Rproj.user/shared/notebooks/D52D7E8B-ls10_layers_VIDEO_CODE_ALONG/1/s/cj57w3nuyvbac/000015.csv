@@ -1,0 +1,244 @@
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/xfun_0.49.zip'
+"
+"2","Warning: URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/xfun_0.49.zip': status was 'Couldn't resolve host name'"
+"2","Error in download.file(url, destfile, method, mode = ""wb"", ...) : 
+  cannot open URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/xfun_0.49.zip'
+"
+"2","Warning: download of package ‘xfun’ failed"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/cpp11_0.5.1.zip'
+"
+"2","Warning: URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/cpp11_0.5.1.zip': status was 'Couldn't resolve host name'"
+"2","Error in download.file(url, destfile, method, mode = ""wb"", ...) : 
+  cannot open URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/cpp11_0.5.1.zip'
+"
+"2","Warning: download of package ‘cpp11’ failed"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/data.table_1.16.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2668647 bytes (2.5 MB)
+"
+"2","downloaded 2.5 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/nabor_0.5.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 496615 bytes (484 KB)
+"
+"2","downloaded 484 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/nngeo_0.4.8.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 521306 bytes (509 KB)
+"
+"2","downloaded 450 KB
+
+"
+"2","Warning: downloaded length 461034 != reported length 521306"
+"2","Warning: URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/nngeo_0.4.8.zip': status was 'Failure when receiving data from the peer'"
+"2","Error in download.file(url, destfile, method, mode = ""wb"", ...) : 
+  download from 'https://cran.rstudio.com/bin/windows/contrib/4.4/nngeo_0.4.8.zip' failed
+"
+"2","Warning: download of package ‘nngeo’ failed"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/shiny_1.10.0.zip'
+"
+"2","Warning: URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/shiny_1.10.0.zip': status was 'Couldn't resolve host name'"
+"2","Error in download.file(url, destfile, method, mode = ""wb"", ...) : 
+  cannot open URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/shiny_1.10.0.zip'
+"
+"2","Warning: download of package ‘shiny’ failed"
+"1","package ‘data.table’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘nabor’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\downloaded_packages"
+"1",""
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/BH_1.87.0-1.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 14335542 bytes (13.7 MB)
+"
+"2","downloaded 13.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/terra_1.8-5.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 981057 bytes (958 KB)
+"
+"2","downloaded 958 KB
+
+"
+"1","* installing *source* package 'BH' ...
+"
+"1","** package 'BH' successfully unpacked and MD5 sums checked
+"
+"1","** using staged installation
+"
+"1","** inst
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","** building package indices
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (BH)
+"
+"1","* installing *source* package 'terra' ...
+"
+"1","** package 'terra' successfully unpacked and MD5 sums checked
+"
+"1","ERROR: cannot remove earlier installation, is it in use?
+"
+"1","* removing 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/terra'
+"
+"1","* restoring previous 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/terra'
+"
+"1","Warning in file.copy(lp, dirname(pkgdir), recursive = TRUE, copy.date = TRUE) :
+"
+"1","  problem copying C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\00LOCK-terra\terra\libs\x64\terra.dll to C:\Users\Hon.Olayinka\AppData\Local\R\win-library\4.4\terra\libs\x64\terra.dll: Permission denied
+"
+"2","Warning: installation of package ‘terra’ had non-zero exit status"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\downloaded_packages’"
+"2",""
+"2","
+"
+"1","[36m──[39m [36mR CMD build[39m [36m───────────────────────────────────────────[39m"
+"1",""
+"1","
+"
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking for file 'C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\remotes3d2825c95dbf\afrimapr-afrihealthsites-aa93ad6/DESCRIPTION'[39m[36m[36m (3.4s)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mpreparing 'afrihealthsites':[39m[36m[36m (2.7s)[36m[39m"
+"1",""
+"1","
+"
+"1","   checking DESCRIPTION meta-information ..."
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking DESCRIPTION meta-information[39m[36m[36m (400ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for LF line-endings in source and make files and shell scripts[39m[36m[36m (612ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for empty or unneeded directories[39m[36m[36m (370ms)[36m[39m"
+"1",""
+"1","
+"
+"1","   Removed empty directory 'afrihealthsites/inst/shiny/senegal_healthsites/rsconnect/shinyapps.io/andysouth'"
+"1",""
+"1","
+"
+"1","   Removed empty directory 'afrihealthsites/inst/shiny/senegal_healthsites/rsconnect/shinyapps.io'"
+"1",""
+"1","
+"
+"1","   Removed empty directory 'afrihealthsites/inst/shiny/senegal_healthsites/rsconnect'"
+"1",""
+"1","
+"
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mbuilding 'afrihealthsites_0.1.0.9008.tar.gz'[39m[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","   "
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","* installing *source* package 'afrihealthsites' ...
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** data
+"
+"1","*** moving datasets to lazyload DB
+"
+"1","** inst
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","Warning message:
+"
+"1","package 'sf' was built under R version 4.4.2 
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","** building package indices
+"
+"1","** installing vignettes
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","Warning: package 'sf' was built under R version 4.4.2
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","Warning: package 'sf' was built under R version 4.4.2
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (afrihealthsites)
+"

@@ -1,0 +1,7 @@
+"0","ggplot() +"
+"0","  "
+"0","  # country map"
+"0","  geom_sf(data = sierra_leone) +"
+"0","  "
+"0","  # hospital points"
+"0","  geom_sf(data = sle_healthsites_set)"

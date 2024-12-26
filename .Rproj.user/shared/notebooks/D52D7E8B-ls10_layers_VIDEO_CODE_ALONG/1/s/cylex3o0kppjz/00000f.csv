@@ -1,0 +1,20 @@
+"0","afrihealthsites(country = ""Zimbabwe"","
+"0","                datasource = ""healthsites"", plot = FALSE) %>% "
+"0","  print()"
+"2","old-style crs object detected; please recreate object with a recent sf::st_crs()
+"
+"2","old-style crs object detected; please recreate object with a recent sf::st_crs()
+"
+"1","Simple feature collection with 467 features and 34 fields"
+"1","
+"
+"1","Geometry type: POINT
+"
+"1","Dimension:     XY
+"
+"1","Bounding box:  "
+"1","xmin: 25.82437 ymin: -22.2701 xmax: 32.95544 ymax: -15.66808"
+"1","
+"
+"1","Geodetic CRS:  WGS 84
+"

@@ -1,0 +1,8 @@
+"0","sierra_leone %>% "
+"0","  ggplot() +"
+"0","  "
+"0","  # country map"
+"0","  geom_sf() +"
+"0","  "
+"0","  # province labels"
+"0","  geom_sf_label_repel(aes(label = shapeName)) # 👈👈👈👈👈👈👈👈👈👈👈"

@@ -1,0 +1,228 @@
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/pillar_1.10.0.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 179892 bytes (175 KB)
+"
+"2","downloaded 175 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/testthat_3.2.2.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 738898 bytes (721 KB)
+"
+"2","downloaded 721 KB
+
+"
+"1","* installing *source* package 'pillar' ...
+"
+"1","** package 'pillar' successfully unpacked and MD5 sums checked
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** inst
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","*** copying figures
+"
+"1","** building package indices
+"
+"1","** installing vignettes
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (pillar)
+"
+"1","* installing *source* package 'testthat' ...
+"
+"1","** package 'testthat' successfully unpacked and MD5 sums checked
+"
+"1","** using staged installation
+"
+"1","** libs
+"
+"1","gcc  -I""C:/PROGRA~1/R/R-44~1.1/include"" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT    -I""c:/rtools44/x86_64-w64-mingw32.static.posix/include""     -O2 -Wall  -mfpmath=sse -msse2 -mstackrealign  -c init.c -o init.o
+"
+"1","/bin/sh: line 1: gcc: command not found
+"
+"1","make: *** [C:/PROGRA~1/R/R-44~1.1/etc/x64/Makeconf:289: init.o] Error 127
+"
+"1","ERROR: compilation failed for package 'testthat'
+"
+"1","* removing 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/testthat'
+"
+"1","* restoring previous 'C:/Users/Hon.Olayinka/AppData/Local/R/win-library/4.4/testthat'
+"
+"2","Warning: installation of package ‘testthat’ had non-zero exit status"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\downloaded_packages’"
+"2",""
+"2","
+"
+"1","[36m──[39m [36mR CMD build[39m [36m──────────────────────[39m"
+"1",""
+"1","
+"
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking for file 'C:\Users\Hon.Olayinka\AppData\Local\Temp\Rtmpu8n7n7\remotes3d2839a64d7a\yutannihilation-ggsflabel-846ede0/DESCRIPTION'[39m[36m[36m (2.3s)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mpreparing 'ggsflabel':[39m[36m[36m (1.9s)[36m[39m"
+"1",""
+"1","
+"
+"1","   checking DESCRIPTION meta-information ..."
+"1",""
+"1",""
+"1","  "
+"1","[32m✔[39m  [38;5;247mchecking DESCRIPTION meta-information[39m[36m[36m (349ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","  "
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for LF line-endings in source and make files and shell scripts[39m[36m[36m (529ms)[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for empty or unneeded directories[39m[36m[39m"
+"1",""
+"1","
+"
+"1","   Omitted 'LazyData' from DESCRIPTION"
+"1",""
+"1","
+"
+"1","[38;5;247m─[39m[38;5;247m  [39m[38;5;247mbuilding 'ggsflabel_0.0.1.tar.gz'[39m[36m[39m"
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","  "
+"1","   "
+"1",""
+"1","
+"
+"1",""
+"1",""
+"1",""
+"1","* installing *source* package 'ggsflabel' ...
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","*** copying figures
+"
+"1","** building package indices
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (ggsflabel)
+"
+"1","afriadmin  (NA       -> b36a276fd...) [GitHub]"
+"1","
+"
+"1","BH         (1.84.0-0 -> 1.87.0-1    ) [CRAN]"
+"1","
+"
+"1","terra      (1.7-78   -> 1.8-5       ) [CRAN]"
+"1","
+"
+"1","xfun       (0.47     -> 0.49        ) [CRAN]"
+"1","
+"
+"1","knitr      (1.48     -> 1.49        ) [CRAN]"
+"1","
+"
+"1","cpp11      (0.5.0    -> 0.5.1       ) [CRAN]"
+"1","
+"
+"1","data.table (1.16.2   -> 1.16.4      ) [CRAN]"
+"1","
+"
+"1","nabor      (NA       -> 0.5.0       ) [CRAN]"
+"1","
+"
+"1","nngeo      (NA       -> 0.4.8       ) [CRAN]"
+"1","
+"
+"1","shiny      (1.9.1    -> 1.10.0      ) [CRAN]"
+"1","
+"
+"1","rgeobound... (1.3    -> 43c0ee3c9...) [GitHub]"
+"1","
+"
+"1","xfun         (0.47   -> 0.49        ) [CRAN]"
+"1","
+"
+"1","terra        (1.7-78 -> 1.8-5       ) [CRAN]"
+"1","
+"
+"1","cpp11        (0.5.0  -> 0.5.1       ) [CRAN]"
+"1","
+"
+"1","knitr        (1.48   -> 1.49        ) [CRAN]"
+"1","
+"
+"2","Warning: package ‘knitr’ is in use and will not be installed"
+"1","
+"
+"1",""
+"1","  There is a binary version
+  available but the source
+  version is later"
+"1",""
+"1",":
+"

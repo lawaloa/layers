@@ -1,0 +1,7 @@
+"0","q5 <- "
+"0","  zimbabwe_hospitals %>% "
+"0","  ggplot() +"
+"0","  geom_sf() +"
+"0","  geom_sf_text_repel(aes(label = name))"
+"0",""
+"0","q5"
